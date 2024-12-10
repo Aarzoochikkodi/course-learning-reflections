@@ -16,9 +16,9 @@ Significance: Essential for optimizing performance, particularly in resource-con
    - **Exponential Time O(2^n):** Exhaustive searches.
 
 ### 3. Key Takeaways from Chapter 2 Design Principles:
-Divide-and-Conquer: Breaks problems into smaller subproblems for easier management.
-Greedy Methods: Focuses on locally optimal choices to build global solutions.
-Dynamic Programming: Solves overlapping subproblems efficiently by reusing results.
+- Divide-and-Conquer: Breaks problems into smaller subproblems for easier management.
+- Greedy Methods: Focuses on locally optimal choices to build global solutions.
+- Dynamic Programming: Solves overlapping subproblems efficiently by reusing results.
 ### 4. Hierarchical Data and Tree Structures:
 Tree Data Structures: Facilitate hierarchical problem-solving, balancing operations, and search optimizations.
 Binary Search Tree (BST): Enables efficient search and insertion.
