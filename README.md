@@ -8,12 +8,12 @@ Backtracking: Handles constraint-based problems, including puzzle-solving and pa
 ### 2. Space and Time Efficiency:
 Definition: Space efficiency measures memory usage, while time efficiency evaluates algorithm speed.
 Significance: Essential for optimizing performance, particularly in resource-constrained or large-scale systems.
-**Growth Orders:**
-- **Constant Time 𝑂(1):** Accessing array elements.  
-- **Logarithmic Time O(logn):** Binary search.  
-- **Linear Time O(n):** Traversing data structures.  
-- **Quadratic Time O(n²):** Nested loops.  
-- **Exponential Time O(2^n):** Exhaustive searches.
+- **Growth Orders:**
+ - **Constant Time 𝑂(1):** Accessing array elements.  
+ - **Logarithmic Time O(logn):** Binary search.  
+ - **Linear Time O(n):** Traversing data structures.  
+ - **Quadratic Time O(n²):** Nested loops.  
+ - **Exponential Time O(2^n):** Exhaustive searches.
 
 ### 3. Key Takeaways from Chapter 2 Design Principles:
 Divide-and-Conquer: Breaks problems into smaller subproblems for easier management.
