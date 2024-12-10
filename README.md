@@ -1,13 +1,13 @@
 ## Course Learning Reflections
  ### 1. Problems in Nature:
     Iteration, Recursion, and Backtracking
-Iteration: Solves problems requiring repetitive actions, such as simulating growth cycles or iterative numerical methods.
-Recursion: Models self-similar structures like fractals or tree structures, leveraging divide-and-conquer approaches.
-Backtracking: Handles constraint-based problems, including puzzle-solving and pathfinding, by exploring possibilities systematically.
+- Iteration: Solves problems requiring repetitive actions, such as simulating growth cycles or iterative numerical methods.
+- Recursion: Models self-similar structures like fractals or tree structures, leveraging divide-and-conquer approaches.
+- Backtracking: Handles constraint-based problems, including puzzle-solving and pathfinding, by exploring possibilities systematically.
 
 ### 2. Space and Time Efficiency:
-Definition: Space efficiency measures memory usage, while time efficiency evaluates algorithm speed.
-Significance: Essential for optimizing performance, particularly in resource-constrained or large-scale systems.
+- Definition: Space efficiency measures memory usage, while time efficiency evaluates algorithm speed.
+- Significance: Essential for optimizing performance, particularly in resource-constrained or large-scale systems.
 - **Growth Orders:**
    - **Constant Time 𝑂(1):** Accessing array elements.  
    - **Logarithmic Time O(logn):** Binary search.  
