@@ -9,7 +9,7 @@ Backtracking: Handles constraint-based problems, including puzzle-solving and pa
 Definition: Space efficiency measures memory usage, while time efficiency evaluates algorithm speed.
 Significance: Essential for optimizing performance, particularly in resource-constrained or large-scale systems.
 Growth Orders:
-  Constant Time 𝑂(1): Accessing array elements.
+  # Constant Time 𝑂(1): Accessing array elements.
   Logarithmic Time O(logn): Binary search.
   Linear Time (n): Traversing data structures.
   Quadratic/Exponential O(n^2): Seen in nested loops or exhaustive searches.
