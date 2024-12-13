@@ -1,4 +1,4 @@
-## Course Learning Reflections
+
  ## 1. Problems in Nature:
 ### Iteration, Recursion, and Backtracking
 - Iteration: Solves problems requiring repetitive actions, such as simulating growth cycles or iterative numerical methods.
